@@ -13,13 +13,16 @@ public class StringBuff{
         //delete i to j-1
         sb.delete(5, 6);
         System.out.println(sb); //Hello Java
+        //deleteCharAt()
+        sb.deleteCharAt(5);
+        System.out.println(sb); //HelloJava
         //reverse
         sb.reverse();
-        System.out.println(sb); //avaJ olleH
+        System.out.println(sb); //avaJolleH
         //length
-        System.out.println(sb.length()); //10
+        System.out.println(sb.length()); //9
         //toString
         String str = sb.toString();
-        System.out.println(str); //avaJ olleH
+        System.out.println(str); //avaJolleH
     }
 }
