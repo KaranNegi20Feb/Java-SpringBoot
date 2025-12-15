@@ -1,0 +1,15 @@
+| Collection    | Order       | Duplicates | Notes              |
+| ------------- | ----------- | ---------- | ------------------ |
+| ArrayList     | ✔️          | ✔️         | Fast access        |
+| LinkedList    | ✔️          | ✔️         | Fast insert/delete |
+| HashSet       | ❌           | ❌          | Fast, unordered    |
+| LinkedHashSet | ✔️          | ❌          | Maintains order    |
+| TreeSet       | ✔️ (sorted) | ❌          | Red-black tree     |
+| HashMap       | ❌           | Keys ❌     | Fast lookup        |
+| LinkedHashMap | ✔️          | Keys ❌     | Order preserved    |
+| TreeMap       | ✔️ (sorted) | Keys ❌     | Sorted keys        |
+| PriorityQueue | ❌           | ✔️         | Heap               |
+| Stack         | ✔️          | ✔️         | LIFO               |
+
+Follow another repo for all collections.
+https://github.com/KaranNegi20Feb/Karan-Cpp-Java-Trainer
