@@ -5,9 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
         String url =
-                "jdbc:postgresql://ep-twilight-feather-ahdpla7y-pooler.c-3.us-east-1.aws.neon.tech:5432/neondb?sslmode=require";
+                "jdbc:postgresql://*************************************.c-3.us-east-1.aws.neon.tech:5432/neondb?sslmode=require";
 
-        String user = "neondb_owner";
+        String user = "***********";
         String password = "**************";
 
         try (Connection con = DriverManager.getConnection(url, user, password)) {
