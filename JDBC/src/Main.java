@@ -8,7 +8,7 @@ public class Main {
                 "jdbc:postgresql://ep-twilight-feather-ahdpla7y-pooler.c-3.us-east-1.aws.neon.tech:5432/neondb?sslmode=require";
 
         String user = "neondb_owner";
-        String password = "npg_ba4eknl6Pzjm";
+        String password = "**************";
 
         try (Connection con = DriverManager.getConnection(url, user, password)) {
 
