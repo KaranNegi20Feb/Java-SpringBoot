@@ -1,3 +1,89 @@
 1.Replace every element in the array with the product of the previous and next elements.
 2.Return count of subarray having non repeating digits 
 3.Sum of composit number in array
+4.Sum of Prime
+
+1. Find maximum subarray sum 
+2. Middle of a linked list 
+3. Find unique element
+4. merge two sorted array 
+5.number is palindorome
+
+1. insertion, deletion, or detect a cycle,
+2. (aabacd => a3b1d1)
+3. 2 strings are anagram
+4. reverse a number
+5. frequency count of vowels in a string.
+6. Factorial,
+
+7. Reverse a String, 
+8. Using break and continue statements, 
+9. Infinite loop, 
+10. Palindrome, Fabonacci Series, Printing patterns based questions.
+11. Given a array of string take out teh unique elements from the array.
+12. implement bst
+
+-------------------------------------------------------------------------------
+
+Very Imp: 1. Move all zeros to the end of the array without changing order.
+Input: [0,1,0,3,12] → Output: [1,3,12,0,0]
+
+2. Second largest element in an array (single pass).
+
+3. Find missing number
+Input: [1,2,4,5] → Output: 3
+
+4. Rotate array by K positions (right rotation)
+Input: [1,2,3,4,5], k=2 → [4,5,1,2,3]
+
+Not Done - 5. Check if array is sorted & rotated
+
+-------------------------------------------------------------------------------
+
+1. Reverse words, not the sentence
+
+"I am karan" → "I ma narak"
+
+
+2. First non-repeating character
+
+"swiss" → 'w'
+
+
+3. Remove duplicate characters
+
+"programming" → "progamin"
+
+
+4. Check if string contains only digits
+
+"12345" → true
+"12a45" → false
+
+
+5. Longest word in a sentence
+
+-------------------------------------------------------------------------------
+
+//1. Core Java (Strings, Exception Handling, Collections, OOPs, Enum) 
+//2. Spring Framework (Dependency Injection, IOC, Annotations) 
+//3. DBMS (DDL, DML, Join Queries)
+// 4. Foreign and primary key, oops pillars, Joins sql, Queries,
+
+// There were 3 rounds 1. Java + Spring Boot -> Basic to Advance questions of Java and spring boot. 
+// 2. Teck + Puzzles -> Interviewer asked me medium level Java related question and some puzzles. 
+// 3. Hr Interview -> 15+ mins Hr discussion regarding Career goals, package, work life, etc.
+// 4. What are SOLID programming principles?
+// 5. What is Callback and Callback Hell and how will you tackle it.
+// 6. why Strings are immutable in java? what is overloading and overriding and
+// write a sample code for overloading and overriding?
+// write a SQL query to find the second highest salary from the emp table.
+// 1. Data Structures - Linked List, Binary Trees, Stacks and Queues (Theory and Coding (3 to 4) both) 
+// 2. DBMS and SQL - Keys, Joins, DBMS vs RDBMS, Clauses, Types of languages, etc. (Theory and Queries) 
+// 3. JAVA - All OOPS concepts(with real life examples), Generics, File and Exception Handling, etc. 
+// 4. Coding Questions (5 to 6) - Problem Solving (like array and string manipulation)
+// 5. Question 1) Introduce yourself 2) Difference B/W DML,DDL commands. 3) Questions related to project(study your project well) 4)Inner Joins(Writing a command as well) 5)Writing a program to reverse a string.
+// 6. SDLC and STLC 2. Waterfall vs Agile 3. Puzzles 4. Program to reverse a string
+// 7. 
+
+
