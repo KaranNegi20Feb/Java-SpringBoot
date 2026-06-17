@@ -52,5 +52,15 @@ public class StringClass{
         //isEmpty
         String emptyString = "";
         System.out.println(emptyString.isEmpty()); //true
+        // split
+        //Split the sentence wherever there are one or more spaces
+        String sen="I am karan and i am here to conquer the world";
+        String[] words = sen.split("\\s+");
+        //check if digit or not
+        for (char c : k.toCharArray()){
+            Character.isDigit(c);
+        }
+
+
     }
 }

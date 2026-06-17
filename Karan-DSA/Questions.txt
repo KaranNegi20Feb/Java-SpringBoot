@@ -59,9 +59,23 @@ Not Done - 5. Check if array is sorted & rotated
 
 "12345" → true
 "12a45" → false
-
-
+----------------------------------use any of these ----------------------------
+Character.isDigit(c);
+Character.isLetter(c);
+Character.isWhitespace(c);
+Character.toLowerCase(c)
+Character.toUpperCase(c)
+Character.isLowerCase(c)
+Character.isUpperCase(c)
+-------------------------------------------------------------------------------
 5. Longest word in a sentence
+
+-------------------------------------------------------------------------------
+1. Count pairs with given sum
+2. Intersection of two arrays
+3. Swap two numbers without using third variable
+4. Print Fibonacci using recursion
+
 
 -------------------------------------------------------------------------------
 
